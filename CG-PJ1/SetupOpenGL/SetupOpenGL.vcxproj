@@ -133,9 +133,11 @@
   <ItemGroup>
     <ClCompile Include="..\Dependencies\glad\src\glad.c" />
     <ClCompile Include="CGPJ1Main.cpp" />
+    <ClCompile Include="OBJModel.cpp" />
     <ClCompile Include="stb_image.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="OBJModel.h" />
     <ClInclude Include="stb_image.h" />
     <ClInclude Include="CGPJ1Main.h" />
   </ItemGroup>
