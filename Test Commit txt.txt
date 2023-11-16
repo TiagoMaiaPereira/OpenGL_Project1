@@ -1,3 +1,4 @@
 Test Commit txt
 
 Test commit on the new branch!
+Test commit after git ignore!
